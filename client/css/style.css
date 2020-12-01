@@ -17,7 +17,7 @@ p {
   font-family: lato, sans-serif;
   font-size: 14px;
   font-weight: 400;
-  color: #999;
+  color: #000;
   margin-bottom: 1.5em;
 }
 h1,
@@ -7737,7 +7737,8 @@ body footer a:hover {
 }
 .home-onepage-features {
   padding: 90px 0 80px;
-  background-image: url(../images/other/section17.jpg) !important;
+  /* background-image: url(../images/other/section17.jpg) !important; */
+  background-color: #03237c;
 }
 .home-onepage-features h5 {
   color: #fff;
