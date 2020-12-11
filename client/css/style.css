@@ -7614,7 +7614,7 @@ body footer a:hover {
 .contact-detail.dark {
   margin-bottom: 0 !important;
   padding: 31px 35px 15px !important;
-  background-color: #1573d1 !important;
+  background-color: #2d317b !important;
 }
 .form-connect .widget .menu-social-small {
   margin: -10px 0 0;
@@ -7624,7 +7624,7 @@ body footer a:hover {
 }
 .home-onepage-footer {
   padding: 85px 0;
-  background-color: #192128;
+  background-color: #333333;
 }
 .contact-detail span {
   color: #fff;
@@ -7659,7 +7659,7 @@ body footer a:hover {
 .form-contact-dark .contact-form input[type="text"],
 .form-contact-dark .contact-form input[type="email"],
 .form-contact-dark .contact-form textarea {
-  background-color: #26333e;
+  background-color: #2d317b;
   border-color: #26333e;
   color: #fff;
 }
@@ -7679,7 +7679,7 @@ body footer a:hover {
   background-color: #fff;
 }
 .hof-head h1 {
-  color: #1674d1;
+  color: white;
   text-align: center;
   text-transform: none;
   margin: 15px 0 25px;
